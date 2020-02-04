@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: siduser211-user1
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: siduser211-user2
     aws_groups: "losangeles, sanfrancisco, napa"
-  - name: user3
+  - name: siduser211-user3
     aws_groups: "palmsprings, indio, sandiego"
